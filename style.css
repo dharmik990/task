@@ -1,0 +1,61 @@
+.ablock {
+    position: absolute;
+    left: 45%;
+}
+
+.cblock {
+    position: absolute;
+    left: 46%;
+    bottom: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.bclas {
+    /* display: flex;
+    align-items: center; */
+    position: absolute;
+    justify-content: start;
+    align-self: center;
+    left: 0px;
+    bottom: 50%;
+
+}
+
+.dblock {
+    display: flex;
+    justify-content: end;
+    position: absolute;
+    right: 0px;
+    bottom: 48%;
+
+}
+
+.a {
+    width: 200px;
+}
+
+.b {
+    height: 200px;
+    align-items: center;
+}
+
+.c {
+    width: 200px;
+}
+
+.d {
+    height: 200px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    bottom: 53%;
+    left: 49%;
+    color: whitesmoke;
+    text-align: center;
+
+}
